@@ -5,7 +5,7 @@
   
   the library time it was also used in order to use time.sleep so we could have time to click in some points and also to load the pages
   
-  the library pyperclip it was used to copy the messsage in portuguese 
+  the library pyperclip it was used to copy the message in portuguese 
 
  STEPS:
  
